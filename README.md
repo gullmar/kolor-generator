@@ -1,5 +1,7 @@
 # kolor-generator
 
+![Screenshot](screenshot.png)
+
 This script generates a KDE Plasma color scheme from an xresource color palette, like the ones you can generate from [terminal.sexy](https://terminal.sexy).
 
 Requires [Python 3](https://www.python.org/).
